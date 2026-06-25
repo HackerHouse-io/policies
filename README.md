@@ -11,3 +11,4 @@ Documents (Privacy Policy, Terms of Service) for HackerHouse apps.
 | WealthLab | [View](wealthlab/privacy-policy.md) | [View](wealthlab/terms-of-service.md) |
 | Threadline | [View](threadline/privacy-policy.md) | [View](threadline/terms-of-service.md) |
 | Pathline | [View](pathline/privacy-policy.md) | [View](pathline/terms-of-service.md) |
+| Ocean Drive Racing | [View](oceandriveracing/privacy-policy.md) | [View](oceandriveracing/terms-of-service.md) |
