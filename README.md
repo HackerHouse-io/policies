@@ -13,3 +13,4 @@ Documents (Privacy Policy, Terms of Service) for HackerHouse apps.
 | Pathline | [View](pathline/privacy-policy.md) | [View](pathline/terms-of-service.md) |
 | Ocean Drive Racing | [View](oceandriveracing/privacy-policy.md) | [View](oceandriveracing/terms-of-service.md) |
 | Outbreak Raiders | [View](outbreakraiders/privacy-policy.md) | [View](outbreakraiders/terms-of-service.md) |
+| Pocket Rooms | [View](pocketrooms/privacy-policy.md) | [View](pocketrooms/terms-of-service.md) |
